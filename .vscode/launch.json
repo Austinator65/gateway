@@ -1,0 +1,14 @@
+{
+   "configurations": [
+      {
+         "type": "java",
+         "name": "Spring Boot-GatewayApplication<gateway>",
+         "request": "launch",
+         "cwd": "${workspaceFolder}",
+         "mainClass": "com.austin.gateway.GatewayApplication",
+         "projectName": "gateway",
+         "args": "",
+         "envFile": "${workspaceFolder}/.env"
+      }
+   ]
+}
